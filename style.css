@@ -2,8 +2,9 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     width: 300px;
-    margin: 20px;
+    margin: 20px auto;
     overflow: hidden;
+
   }
   
   .animal-card img {
